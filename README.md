@@ -2,7 +2,7 @@
 
 ```bash
 # 克隆项目
-git clone https://gitee.com/y_project/Rose-Vue
+git clone https://github.com/ll1001020/rose_front_development.git
 
 # 进入项目目录
 cd rose-ui
